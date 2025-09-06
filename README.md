@@ -1,4 +1,4 @@
 # IBM-Data-Science
-Coursera specifcation 
+Coursera specification 
 
 This repository includes original course files and notes
